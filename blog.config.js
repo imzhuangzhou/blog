@@ -1,4 +1,3 @@
-const { default: Blog } = require("./pages")
 
 const BLOG = {
   title: '庄周',

@@ -1,6 +1,6 @@
 
 const BLOG = {
-  title: '🐳',
+  title: '庄周',
   author: '庄周',
   email: 'boyzhuangzi@qq.com',
   link: 'https://zhuangzhou.vercel.app',

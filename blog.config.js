@@ -2,7 +2,7 @@
 const BLOG = {
   title: '张静',
   author: '张静',
-  email: 'imjingzhang@qq.com',
+  email: 'boyzhuangzi@qq.com',
   link: 'jingzhang.site',
   description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -19,7 +19,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: true, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://x.com/imjingzhang',
+  socialLink: 'jingzhang.site',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code

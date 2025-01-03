@@ -1,10 +1,10 @@
 
 const BLOG = {
-  title: '庄周',
-  author: '庄周',
-  email: 'boyzhuangzi@qq.com',
-  link: 'https://zhuangzhou.vercel.app',
-  description: '不知周之梦为胡蝶与，胡蝶之梦为周与？',
+  title: '张静',
+  author: '张静',
+  email: 'imjingzhang@qq.com',
+  link: 'jingzhang.site',
+  description: '',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -14,7 +14,7 @@ const BLOG = {
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2024, // If leave this empty, current year will be used.
   postsPerPage: 10,
-  sortByDate: false,
+  sortByDate: true,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: true, // The automatically collapsed navigation bar
